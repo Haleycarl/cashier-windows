@@ -1,1 +1,1 @@
-#Simple Cashier System
+# Simple Cashier System
